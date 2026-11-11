@@ -20,6 +20,9 @@
 - Configure the rule to trigger a webhook.
 
 <img src="sc.png" alt="LimaCharlie Detection Rule" width="900">
+### Detection Rule Screenshot
+
+![LimaCharlie Detection Rule](./sc.png)
 
 
 ## 4. Configure Tines
