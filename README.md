@@ -10,6 +10,7 @@ Email
 Analyst Approval
 Automated Sensor Isolation
 Features
+
 ✔ Receive LimaCharlie Detection
 
 ✔ Send Slack Alert
