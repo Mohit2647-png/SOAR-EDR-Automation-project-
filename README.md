@@ -37,7 +37,7 @@ Automates incident response using:
 
 ## Workflow
 
-1. LimaCharlie detects malicious activity
+1. LimaCharlie detects malicious activity of laZagne hacktool
 2. Webhook sends detection to Tines
 3. Slack notification sent
 4. Email notification sent
