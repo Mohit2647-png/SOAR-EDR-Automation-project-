@@ -119,4 +119,4 @@ Options:
 - Slack API
 - Email Integration
 - REST API
-- JWT Authentication
+  
