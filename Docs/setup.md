@@ -18,7 +18,7 @@
 ## 3. Create a Detection Rule
 - Create a D&R rule to detect malicious process execution (e.g., LaZagne).
 - Configure the rule to trigger a webhook.
-- <img width="1920" height="1080" alt="Screenshot (366)" src="sc.png" />
+- <img width="1920" height="1080" alt="sc.png" src="sc.png" />
 
 
 ## 4. Configure Tines
