@@ -1,15 +1,19 @@
-# SOAR-EDR-Automation-project-
-SOAR EDR Automation with Tines , Slack, LaZagne Hacktool &amp; LimaCharlie for asking user to isolate the machine or not.
+# SOAR EDR Automation with Tines & LimaCharlie
+
 ## Overview
+
 Automates incident response using:
 
-LimaCharlie EDR
-Tines SOAR
-Slack
-Email
-Analyst Approval
-Automated Sensor Isolation
-Features
+- LimaCharlie EDR
+- Tines SOAR
+- Slack
+- Email
+- Analyst Approval
+- Automated Sensor Isolation
+
+---
+
+## Features
 
 ✔ Receive LimaCharlie Detection
 
@@ -23,19 +27,33 @@ Features
 
 ✔ Notification when isolation is declined
 
-Architecture
+---
+
+## Architecture
+
 (insert architecture image)
 
-Workflow
-LimaCharlie detects malicious activity
-Webhook sends detection to Tines
-Slack notification sent
-Email notification sent
-Analyst receives approval page
-If YES → Sensor isolated → Slack confirmation
-If NO → Slack notification only
-Technologies
-LimaCharlie
-Tines
-Slack API
-REST APIs
+---
+
+## Workflow
+
+1. LimaCharlie detects malicious activity
+2. Webhook sends detection to Tines
+3. Slack notification sent
+4. Email notification sent
+5. Analyst receives approval page
+6. If YES
+      → Sensor isolated
+      → Slack confirmation
+7. If NO
+      → Slack notification only
+
+---
+
+## Technologies
+
+- LimaCharlie
+- Tines
+- Slack API
+- REST APIs
+
