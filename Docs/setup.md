@@ -19,18 +19,6 @@
 - Create a D&R rule to detect malicious process execution (e.g., LaZagne).
 - Configure the rule to trigger a webhook.
 
-<img src="./sc.png" alt="LimaCharlie Detection Rule" width="900">
-### Detection Rule Screenshot
-
-![LimaCharlie Detection Rule](./sc.png)
-## 3. Create a Detection Rule
-
-- Create a D&R rule to detect malicious process execution (e.g., LaZagne).
-- Configure the rule to trigger a webhook.
-
-![LimaCharlie Detection Rule](GITHUB_GENERATED_IMAGE_URL)
-
-
 ## 4. Configure Tines
 - Create a new Story.
 - Add the Webhook action.
