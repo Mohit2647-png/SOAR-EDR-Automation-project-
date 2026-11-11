@@ -19,7 +19,7 @@
 - Create a D&R rule to detect malicious process execution (e.g., LaZagne).
 - Configure the rule to trigger a webhook.
 
-<img src="sc.png" alt="LimaCharlie Detection Rule" width="900">
+<img src="./sc.png" alt="LimaCharlie Detection Rule" width="900">
 ### Detection Rule Screenshot
 
 ![LimaCharlie Detection Rule](./sc.png)
